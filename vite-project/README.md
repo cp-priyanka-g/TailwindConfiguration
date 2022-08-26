@@ -31,7 +31,7 @@ Installation commands that I paste in:
 
 ### Install Vue Router
 
-npm install vue-router@4
+- npm install vue-router@4
 
 .eslintrc.js:
 module.exports = {
