@@ -13,19 +13,19 @@ Since the Vue CLI does not support Vite as yet, we need to configure these thing
 
 Installation commands that I paste in:
 
-Create Vite App
+# Create Vite App
 
 - npm init @vitejs/app project-name
 
-Install Tailwind + dependencies
+# Install Tailwind + dependencies
 
 - npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 
-Install ESLint + Prettier
+# Install ESLint + Prettier
 
 - npm install --save-dev eslint prettier eslint-plugin-vue eslint-config-prettier
 
-Install Vue Router
+# Install Vue Router
 
 - npm install vue-router@4
 
