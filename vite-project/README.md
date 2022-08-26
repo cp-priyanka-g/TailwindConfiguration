@@ -20,6 +20,10 @@ Installation commands that I paste in:
 ### Install Tailwind + dependencies
 
 - npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+  - Steps to follow
+     - Create file index.css in src folder 
+     - paste the code as in file above
+     - import index.css in main.js
 
 ### Install ESLint + Prettier
 
