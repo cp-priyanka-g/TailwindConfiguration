@@ -23,7 +23,13 @@ Installation commands that I paste in:
 
 ```
 - npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+
 ```
+
+- Steps to follow
+  - Create file index.css in src folder
+  - paste the code as in file above
+  - import index.css in main.js
 
 ### Install ESLint + Prettier
 
@@ -36,6 +42,8 @@ Installation commands that I paste in:
 ```
 npm install vue-router@4
 ```
+
+- npm install vue-router@4
 
 .eslintrc.js:
 module.exports = {
