@@ -36,15 +36,6 @@ Installation commands that I paste in:
 ```
  npm install --save-dev eslint prettier eslint-plugin-vue eslint-config-prettier
 ```
-
-### Install Vue Router
-
-```
-npm install vue-router@4
-```
-
- npm install vue-router@4
-
 .eslintrc.js:
 module.exports = {
 extends: [
@@ -69,3 +60,13 @@ trailingComma: 'es5',
 bracketSpacing: true,
 arrowParens: 'always',
 }
+
+
+### Install Vue Router
+
+```
+npm install vue-router@4
+```
+
+ npm install vue-router@4
+
