@@ -22,7 +22,7 @@ Installation commands that I paste in:
 ### Install Tailwind + dependencies
 
 ```
-- npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 
 ```
 
@@ -34,7 +34,7 @@ Installation commands that I paste in:
 ### Install ESLint + Prettier
 
 ```
-- npm install --save-dev eslint prettier eslint-plugin-vue eslint-config-prettier
+ npm install --save-dev eslint prettier eslint-plugin-vue eslint-config-prettier
 ```
 
 ### Install Vue Router
@@ -43,7 +43,7 @@ Installation commands that I paste in:
 npm install vue-router@4
 ```
 
-- npm install vue-router@4
+ npm install vue-router@4
 
 .eslintrc.js:
 module.exports = {
