@@ -16,7 +16,7 @@ Installation commands that I paste in:
 ### Create Vite App
 
 ```
-- npm init @vitejs/app project-name
+ npm init @vitejs/app project-name
 ```
 
 ### Install Tailwind + dependencies
