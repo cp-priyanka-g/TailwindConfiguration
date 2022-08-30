@@ -25,6 +25,9 @@ Installation commands that I paste in:
  npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 
 ```
+```
+npx tailwindcss init -p
+```
 
 - Steps to follow
   - Create file index.css in src folder
